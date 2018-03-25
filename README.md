@@ -1,2 +1,3 @@
-# MOOC-course-project
-All online-course projects I have done in Coursera, Udacity and so on
+# MIT-cs6.00 course
+All works and projects I have done in MIT-cs6.00 opencourse.
+Since 05.Nov.2017.
